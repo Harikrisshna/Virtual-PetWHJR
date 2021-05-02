@@ -22,7 +22,7 @@ function setup() {
   dog.addImage(sadDog);
   dog.scale=0.15;
   
-  feed=createButton("Feed the dog");
+  feed=createButton("FEED DOGGO");
   feed.position(700,95);
   feed.mousePressed(feedDog);
 
